@@ -1,0 +1,20 @@
+rg_name     = "rg-network-marcelo"
+rg_location = "eastus"
+service_plan_name = "srvplanmarceloeastus"
+service_plan_name2 = "srvplanmarcelobrasilsouth"
+service_plan_location1 = "eastus2"
+service_plan_location2 = "brazilsouth"
+win_web_app = "appaz700eastus"
+win_web_app2 = "appaz700brazil"
+vnet_name = "vnet_windows"
+snet_name = "snet_windows"
+nic_name = "nic_vm1"
+ip_vm1 = "ip_vm1"
+vm1_name = "vmwindows"
+traffic_manager_name = "marceloaz700"
+relative_name = "linktecnologiacloud"
+endpoint_name = "webappbrazil"
+endpoint_name2 = "webappeastus"
+
+
+ 
